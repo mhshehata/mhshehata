@@ -1,10 +1,8 @@
 # Mohamed Shehata - Data Analyst Portfolio
 ## About
-I am an Energy Engineer with a great interest in data analytics and modeling, especially in the Energy Sector. 
+As an Energy Engineer with a strong background in data analytics and modeling, I've dedicated my career to the energy sector. My experience spans various roles, including production, project management, and market analysis. This diverse background equips me with a unique perspective and valuable skills that are well-suited for a data analyst role.
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
-
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+I have honed my data analysis abilities through academic coursework and professional experience, employing a diverse array of software tools such as Python, SQL, MATLAB, GAMS, Tableau, and Microsoft Excel.
 
 My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
 
