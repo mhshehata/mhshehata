@@ -37,7 +37,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Skills:** 
 
-EDA, Linear Regression, Data Visualization.
+EDA, Linear Regression, Sensitivity Analysis, Data Visualization.
 
 **Technology:** 
 - Python: pandas, NumPy, Seaborn, Matplotlib, scikit-learn
