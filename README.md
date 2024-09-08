@@ -22,7 +22,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 
 
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
+- [Education](https://github.com/mhshehata/mhshehata/blob/main/README.md#education)  
 - [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 ## Portfolio Projects
