@@ -102,24 +102,16 @@ SQL: Joins, CTE's, Windows Functions, Aggregate Functions, Converting Data Types
 
 
 ## Education
-Technical University of Berlin, Germany
-
-MSc. Energy Engineering and Economics
-
+Technical University of Berlin, Germany,
+MSc. Energy Engineering and Economics,
 Oct 2019 - Jan 2022
 
-
-University of the People, USA
-
-Master of Business Administration - MBA
-
+University of the People, USA,
+Master of Business Administration - MBA,
 Apr 2017 - Nov 2020
 
-
-Alexandria University - Egypt
-
-BSc. Chemical Engineering
-
+Alexandria University - Egypt,
+BSc. Chemical Engineering,
 Sep 2003 - Jun 2008
 
 
