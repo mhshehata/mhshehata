@@ -110,9 +110,8 @@ Sep 2003 - Jun 2008
 
 ## Certificates
 
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
+- [Professional Data Analyst Certificate](https://www.datacamp.com/certificate/DA0024975530197) (Aug 2024) (DataCamp)
+- 
 
 ## Contacts
 - LinkedIn: [@mohamed-hassan-shehata](www.linkedin.com/in/mohamed-hassan-shehata)
