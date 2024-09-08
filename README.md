@@ -6,7 +6,7 @@ I have honed my data analysis abilities through academic coursework and professi
 
 My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+This is a repository to showcase skills, share projects, and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
 - [About](https://github.com/mhshehata/mhshehata/blob/main/README.md#about)
@@ -42,7 +42,7 @@ EDA, Linear Regression, Sensitivity Analysis, Data Visualization.
 
 **Results:** 
 
-### Customers Segmentation Using K-Means Clsutering
+### Customers Segmentation Using K-Means Clustering
 
 **Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
 
