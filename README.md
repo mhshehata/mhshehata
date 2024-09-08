@@ -116,4 +116,6 @@ Sep 2003 - Jun 2008
 
 ## Contacts
 - LinkedIn: [@mohamed-hassan-shehata](www.linkedin.com/in/mohamed-hassan-shehata)
+- DataCamp: [mhshehata](https://www.datacamp.com/portfolio/mhshehata)
+- Website: [mhshehata.github.io](https://mhshehata.github.io/)
 - Email: mohamed.shehata@gmx.net
