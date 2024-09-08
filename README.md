@@ -15,7 +15,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](https://github.com/mhshehata/mhshehata/blob/main/README.md#portfolio-projects)
   - Python
     - [Analyzing the Levelized Cost of Hydrogen](https://github.com/mhshehata/Analyzing_levelized_cost_of_hydrogen)
-    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
+    - [Customers Segmentation Using K-Means Clsutering](https://github.com/mhshehata/TravelTide-Customer-Segmentation-Perks-Assignment)  
   - SQL
     - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
     - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
@@ -28,7 +28,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Analyzing the Factors Contributing to the Success of a Movie
+### Analyzing the Levelized Cost of Hydrogen
 **Code:** [Analyzing_levelized_cost_of_hydrogen.ipynb`](https://github.com/mhshehata/Analyzing_levelized_cost_of_hydrogen/blob/main/LCOH%20of%20SMR%20%26%20Electrolyzer%20-%20Germany.ipynb)
 
 **Goal:** 
@@ -37,23 +37,25 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Skills:** data cleaning, data analysis, linear regression, data visualization.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Technology:** Python: pandas, numpy, seaborn, matplotlib, sklearn
 
 **Results:** 
 
-### Tech Store Sales Analysis
+### Customers Segmentation Using K-Means Clsutering
 
 **Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
 
-**Code:** [`Tech Store Sales Analysis.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
+**Code:** [TravelTide-Customer-Segmentation-Perks-Assignment.ipynb](https://github.com/mhshehata/TravelTide-Customer-Segmentation-Perks-Assignment/blob/main/TravelTide_Customer_Segmentation_%26_Perks_Assignment_Project.ipynb)
 
-**Description:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
+**Description:** The goal of this project is to segment customers in the TravelTide database into five different segments based on their spending patterns, booking habits, and travel preferences. Based on these segments, we will assign customers to one of five relevant perks. These perks are intended to foster customer loyalty, increase engagement, and improve overall satisfaction.
 
-**Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
+**Skills:** EDA, data cleaning and aggregation, feature engineering, k-means clustering, data visualization
 
-**Technology:** Python, Pandas, Matplotlib.
+**Technology:** 
+  Python: pandas, numpy, matplotlib, seaborn, sqlalchemy, sklearn
+  SQL: PostgreSQL, SQL CTEs
 
-**Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
+**Results:** 
 
 
 
