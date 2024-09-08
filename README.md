@@ -36,10 +36,11 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:** This analysis compares the levelized cost of hydrogen production of the steam methane reforming and water electrolysis process. For this purpose, Germany’s national strategy for producing hydrogen via electrolysis capacity of 5 GW by 2030 is modeled on Python.
 
 **Skills:** 
+
 EDA, Linear Regression, Data Visualization.
 
 **Technology:** 
-Python: pandas, NumPy, Seaborn, Matplotlib, scikit-learn
+- Python: pandas, NumPy, Seaborn, Matplotlib, scikit-learn
 
 **Results:** 
 
@@ -52,12 +53,13 @@ Python: pandas, NumPy, Seaborn, Matplotlib, scikit-learn
 **Description:** The goal of this project is to segment customers in the TravelTide database into five different segments based on their spending patterns, booking habits, and travel preferences. Based on these segments, we will assign customers to one of five relevant perks. These perks are intended to foster customer loyalty, increase engagement, and improve overall satisfaction.
 
 **Skills:** 
+
 EDA, Data Cleaning and Aggregation, Feature Engineering, K-Means Clustering, Data Visualization
 
 **Technology:** 
-Python: Pandas, NumPy, Matplotlib, Seaborn, SQLALchemy, scikit-learn
+- Python: Pandas, NumPy, Matplotlib, Seaborn, SQLALchemy, scikit-learn
   
-SQL: Joins, CTE's, Windows Functions, Aggregate Functions, Converting Data Types
+- SQL: Joins, CTE's, Windows Functions, Aggregate Functions, Converting Data Types
 
 **Results:** 
 
