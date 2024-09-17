@@ -71,7 +71,7 @@ Sep 2003 - Jun 2008
 ## Certificates
 
 - [Professional Data Analyst Certificate](https://www.datacamp.com/certificate/DA0024975530197) (Aug 2024) (DataCamp)
-- 
+- [Data Analytics Bootcamp](https://de.masterschool.com/domains/data-analytics-14-months-de/?gad_source=1&fbp=fb.1.1715863866853.1510972463&hubspotutk=861e8af58fcee5914a0cc2f59256e1a1&ttp=uQc_Nex8uwNhz3CQYH_WjNQ06LJ&exp=var&_gl=1*1e0pvzp*_up*MQ..&gclid=CjwKCAjw0aS3BhA3EiwAKaD2Zc8uIh-bGfCY3N37EIf23udaYFFI1rRAY21QoGqbK8YfpzAgq5ap-RoClqEQAvD_BwE) (Oct 2024) (Masterschool)
 
 ## Contacts
 - LinkedIn: [@mohamed-hassan-shehata](www.linkedin.com/in/mohamed-hassan-shehata)
