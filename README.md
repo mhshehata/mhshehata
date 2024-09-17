@@ -1,22 +1,19 @@
 # Mohamed Shehata - Data Analyst Portfolio
 ## About
-As an Energy Engineer with a strong background in data analytics and modeling, I've dedicated my career to the energy sector. My experience spans various roles, including production, project management, and market analysis. This diverse background equips me with a unique perspective and valuable skills that are well-suited for a data analyst role.
+As an Energy Engineer with a strong background in energy engineering and economics, I've dedicated my career to the energy sector. My experience spans various roles, including data modelling and analytics, production, project management, and market analysis. This diverse background equips me with a unique perspective and valuable skills that are well-suited for a data analyst role.
 
 I have honed my data analysis abilities through academic coursework and professional experience, employing a diverse array of software tools such as Python, SQL, MATLAB, GAMS, Tableau, and Microsoft Excel.
 
-My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
 
 This is a repository to showcase skills, share projects, and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
 - [About](https://github.com/mhshehata/mhshehata/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/mhshehata/mhshehata/blob/main/README.md#portfolio-projects)
-  - Python
+  
     - [Analyzing the Levelized Cost of Hydrogen](https://github.com/mhshehata/Analyzing_levelized_cost_of_hydrogen)
     - [Customers Segmentation Using K-Means Clsutering](https://github.com/mhshehata/TravelTide-Customer-Segmentation-Perks-Assignment)  
-  - SQL
-    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
-    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
+
 
 
 
@@ -27,9 +24,9 @@ This is a repository to showcase skills, share projects, and track my progress i
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Analyzing the Levelized Cost of Hydrogen
+
 **Code:** [Analyzing_levelized_cost_of_hydrogen.ipynb`](https://github.com/mhshehata/Analyzing_levelized_cost_of_hydrogen/blob/main/LCOH%20of%20SMR%20%26%20Electrolyzer%20-%20Germany.ipynb)
 
-**Goal:** 
 
 **Description:** This analysis compares the levelized cost of hydrogen production of the steam methane reforming and water electrolysis process. For this purpose, Germany’s national strategy for producing hydrogen via electrolysis capacity of 5 GW by 2030 is modeled on Python.
 
@@ -40,11 +37,8 @@ EDA, Linear Regression, Sensitivity Analysis, Data Visualization.
 **Technology:** 
 - Python: pandas, NumPy, Seaborn, Matplotlib, scikit-learn
 
-**Results:** 
 
 ### Customers Segmentation Using K-Means Clustering
-
-**Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
 
 **Code:** [TravelTide-Customer-Segmentation-Perks-Assignment.ipynb](https://github.com/mhshehata/TravelTide-Customer-Segmentation-Perks-Assignment/blob/main/TravelTide_Customer_Segmentation_%26_Perks_Assignment_Project.ipynb)
 
@@ -58,47 +52,6 @@ EDA, Data Cleaning and Aggregation, Feature Engineering, K-Means Clustering, Dat
 - Python: Pandas, NumPy, Matplotlib, Seaborn, SQLALchemy, scikit-learn
   
 - SQL: Joins, CTE's, Windows Functions, Aggregate Functions, Converting Data Types
-
-**Results:** 
-
-
-
-### Nashville Housing Data Cleaning
-**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
-
-**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
-
-
-**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
-
-**Technology:** SQL Server
-
-
-### Covid 19 Data Exploration
-**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
-
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
-
-**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
-
-**Technology:** SQL Server
-
-
-
-### Legendary Pokémon Analysis
-
-**Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
-
-**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
-
-**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
-
-**Skills:** data cleaning, data analysis, data visualization.
-
-**Technology:** Tidyverse 
-
-
-
 
 
 ## Education
